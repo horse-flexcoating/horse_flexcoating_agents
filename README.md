@@ -45,4 +45,4 @@ TODO: Write history
 
 ## <a name="license"></a>License
 
-TODO: Write license
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
