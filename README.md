@@ -1,6 +1,6 @@
 # HORSE FLEXCoating Agents
 
-This script was developed in the scope of the [FLEXCoating experiment](http://horse-project.eu/flexcoating) that was part of the [HORSE project](http://horse-project.eu). It implements two HORSE agents as defined in the HORSE Framework.
+This script was developed in the scope of the [FLEXCoating](http://horse-project.eu/flexcoating) experiment that was part of the [HORSE](http://horse-project.eu) project. It implements two HORSE agents as defined in the HORSE Framework.
 
 
 ## Table of Contents
