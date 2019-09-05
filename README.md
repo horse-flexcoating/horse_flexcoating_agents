@@ -1,13 +1,12 @@
 # HORSE FLEXCoating Agents
 
-This script was developed in the scope of the <a href="http://horse-project.eu/flexcoating">FLEXCoating experiment</a> that was part of the <a href="http://horse-project.eu">HORSE project</a>. It implements two HORSE agents as defined in the HORSE Framework.
+This script was developed in the scope of the [FLEXCoating](http://horse-project.eu/flexcoating) experiment that was part of the [HORSE](http://horse-project.eu) project. It implements two HORSE agents as defined in the HORSE Framework.
 
 
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [History](#history)
 * [Credits](#credits)
 * [License](#license)
 
@@ -30,19 +29,18 @@ $ pip install asyncio pymodbus roslibpy websockets
 
 ## <a name="usage"></a>Usage
 
-TODO: Write usage instructions
+Configuration is done inside the script. To execute, simply run:
 
-
-## <a name="history"></a>History
-
-TODO: Write history
+```console
+$ ./agents.py
+```
 
 
 ## <a name="credits"></a>Credits
 
-<a href="https://github.com/pdcribeiro">pdcribeiro</a>
+[pdcribeiro](https://github.com/pdcribeiro)
 
 
 ## <a name="license"></a>License
 
-[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
