@@ -1,34 +1,5 @@
 #!/usr/bin/env python3
 
-''' A bunch of agents to be used with the HORSE Framework
-
-Usage:
-
-> main block at EOF
-
-> when inheriting from HorseAgent, override methods 'main' and 'request_valid'
-
-TODO:
-
-> correct try blocks
-
-> change properties and method names to "private"
-
-> review exceptions
-
-> close all ros components
-
-> one class per file
-
-> readme (use rafael template)
-
-> LICENSE (probably apache 2.0) (readme and file)
-
-
-by pdribeiro at CRIIS for the HORSE FlexCoating project on June 2019
-
-'''
-
 import asyncio
 import json
 import math
